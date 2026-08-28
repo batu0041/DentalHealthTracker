@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DentalHealthTracker.Core", "DentalHealthTracker.Core\DentalHealthTracker.Core.csproj", "{97889D43-DB10-4C0F-A99E-A51852102B6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DentalHealthTracker.Data", "DentalHealthTracker.Data\DentalHealthTracker.Data.csproj", "{77A2FFA7-ACD0-411D-A22B-EACE28AFCD9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DentalHealthTracker.Service", "DentalHealthTracker.Service\DentalHealthTracker.Service.csproj", "{D4FDC36D-630C-4618-9753-83EA9D9C32F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DentalHealthTracker.API", "DentalHealthTracker.API\DentalHealthTracker.API.csproj", "{0E31E27E-5662-4683-BB1A-8A82D3AB79A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97889D43-DB10-4C0F-A99E-A51852102B6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97889D43-DB10-4C0F-A99E-A51852102B6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97889D43-DB10-4C0F-A99E-A51852102B6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97889D43-DB10-4C0F-A99E-A51852102B6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77A2FFA7-ACD0-411D-A22B-EACE28AFCD9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77A2FFA7-ACD0-411D-A22B-EACE28AFCD9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77A2FFA7-ACD0-411D-A22B-EACE28AFCD9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77A2FFA7-ACD0-411D-A22B-EACE28AFCD9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4FDC36D-630C-4618-9753-83EA9D9C32F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4FDC36D-630C-4618-9753-83EA9D9C32F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4FDC36D-630C-4618-9753-83EA9D9C32F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4FDC36D-630C-4618-9753-83EA9D9C32F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E31E27E-5662-4683-BB1A-8A82D3AB79A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E31E27E-5662-4683-BB1A-8A82D3AB79A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E31E27E-5662-4683-BB1A-8A82D3AB79A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E31E27E-5662-4683-BB1A-8A82D3AB79A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

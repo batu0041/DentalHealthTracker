@@ -1,0 +1,34 @@
+/Users/batuhanparlak/Desktop/kafe site/trtek staj/DentalHealthTracker/DentalHealthTracker.Service/bin/Debug/net8.0/DentalHealthTracker.Service.deps.json
+/Users/batuhanparlak/Desktop/kafe site/trtek staj/DentalHealthTracker/DentalHealthTracker.Service/bin/Debug/net8.0/DentalHealthTracker.Service.dll
+/Users/batuhanparlak/Desktop/kafe site/trtek staj/DentalHealthTracker/DentalHealthTracker.Service/bin/Debug/net8.0/DentalHealthTracker.Service.pdb
+/Users/batuhanparlak/Desktop/kafe site/trtek staj/DentalHealthTracker/DentalHealthTracker.Service/bin/Debug/net8.0/DentalHealthTracker.Core.dll
+/Users/batuhanparlak/Desktop/kafe site/trtek staj/DentalHealthTracker/DentalHealthTracker.Service/bin/Debug/net8.0/DentalHealthTracker.Data.dll
+/Users/batuhanparlak/Desktop/kafe site/trtek staj/DentalHealthTracker/DentalHealthTracker.Service/bin/Debug/net8.0/DentalHealthTracker.Core.pdb
+/Users/batuhanparlak/Desktop/kafe site/trtek staj/DentalHealthTracker/DentalHealthTracker.Service/bin/Debug/net8.0/DentalHealthTracker.Data.pdb
+/Users/batuhanparlak/Desktop/kafe site/trtek staj/DentalHealthTracker/DentalHealthTracker.Service/obj/Debug/net8.0/DentalHealthTracker.Service.csproj.AssemblyReference.cache
+/Users/batuhanparlak/Desktop/kafe site/trtek staj/DentalHealthTracker/DentalHealthTracker.Service/obj/Debug/net8.0/DentalHealthTracker.Service.GeneratedMSBuildEditorConfig.editorconfig
+/Users/batuhanparlak/Desktop/kafe site/trtek staj/DentalHealthTracker/DentalHealthTracker.Service/obj/Debug/net8.0/DentalHealthTracker.Service.AssemblyInfoInputs.cache
+/Users/batuhanparlak/Desktop/kafe site/trtek staj/DentalHealthTracker/DentalHealthTracker.Service/obj/Debug/net8.0/DentalHealthTracker.Service.AssemblyInfo.cs
+/Users/batuhanparlak/Desktop/kafe site/trtek staj/DentalHealthTracker/DentalHealthTracker.Service/obj/Debug/net8.0/DentalHealthTracker.Service.csproj.CoreCompileInputs.cache
+/Users/batuhanparlak/Desktop/kafe site/trtek staj/DentalHealthTracker/DentalHealthTracker.Service/obj/Debug/net8.0/DentalHe.E72D2BCE.Up2Date
+/Users/batuhanparlak/Desktop/kafe site/trtek staj/DentalHealthTracker/DentalHealthTracker.Service/obj/Debug/net8.0/DentalHealthTracker.Service.dll
+/Users/batuhanparlak/Desktop/kafe site/trtek staj/DentalHealthTracker/DentalHealthTracker.Service/obj/Debug/net8.0/refint/DentalHealthTracker.Service.dll
+/Users/batuhanparlak/Desktop/kafe site/trtek staj/DentalHealthTracker/DentalHealthTracker.Service/obj/Debug/net8.0/DentalHealthTracker.Service.pdb
+/Users/batuhanparlak/Desktop/kafe site/trtek staj/DentalHealthTracker/DentalHealthTracker.Service/obj/Debug/net8.0/ref/DentalHealthTracker.Service.dll
+/Users/batuhanparlak/Desktop/trtek staj/DentalHealthTracker/DentalHealthTracker.Service/bin/Debug/net8.0/DentalHealthTracker.Service.deps.json
+/Users/batuhanparlak/Desktop/trtek staj/DentalHealthTracker/DentalHealthTracker.Service/bin/Debug/net8.0/DentalHealthTracker.Service.dll
+/Users/batuhanparlak/Desktop/trtek staj/DentalHealthTracker/DentalHealthTracker.Service/bin/Debug/net8.0/DentalHealthTracker.Service.pdb
+/Users/batuhanparlak/Desktop/trtek staj/DentalHealthTracker/DentalHealthTracker.Service/bin/Debug/net8.0/DentalHealthTracker.Core.dll
+/Users/batuhanparlak/Desktop/trtek staj/DentalHealthTracker/DentalHealthTracker.Service/bin/Debug/net8.0/DentalHealthTracker.Data.dll
+/Users/batuhanparlak/Desktop/trtek staj/DentalHealthTracker/DentalHealthTracker.Service/bin/Debug/net8.0/DentalHealthTracker.Core.pdb
+/Users/batuhanparlak/Desktop/trtek staj/DentalHealthTracker/DentalHealthTracker.Service/bin/Debug/net8.0/DentalHealthTracker.Data.pdb
+/Users/batuhanparlak/Desktop/trtek staj/DentalHealthTracker/DentalHealthTracker.Service/obj/Debug/net8.0/DentalHealthTracker.Service.csproj.AssemblyReference.cache
+/Users/batuhanparlak/Desktop/trtek staj/DentalHealthTracker/DentalHealthTracker.Service/obj/Debug/net8.0/DentalHealthTracker.Service.GeneratedMSBuildEditorConfig.editorconfig
+/Users/batuhanparlak/Desktop/trtek staj/DentalHealthTracker/DentalHealthTracker.Service/obj/Debug/net8.0/DentalHealthTracker.Service.AssemblyInfoInputs.cache
+/Users/batuhanparlak/Desktop/trtek staj/DentalHealthTracker/DentalHealthTracker.Service/obj/Debug/net8.0/DentalHealthTracker.Service.AssemblyInfo.cs
+/Users/batuhanparlak/Desktop/trtek staj/DentalHealthTracker/DentalHealthTracker.Service/obj/Debug/net8.0/DentalHealthTracker.Service.csproj.CoreCompileInputs.cache
+/Users/batuhanparlak/Desktop/trtek staj/DentalHealthTracker/DentalHealthTracker.Service/obj/Debug/net8.0/DentalHe.E72D2BCE.Up2Date
+/Users/batuhanparlak/Desktop/trtek staj/DentalHealthTracker/DentalHealthTracker.Service/obj/Debug/net8.0/DentalHealthTracker.Service.dll
+/Users/batuhanparlak/Desktop/trtek staj/DentalHealthTracker/DentalHealthTracker.Service/obj/Debug/net8.0/refint/DentalHealthTracker.Service.dll
+/Users/batuhanparlak/Desktop/trtek staj/DentalHealthTracker/DentalHealthTracker.Service/obj/Debug/net8.0/DentalHealthTracker.Service.pdb
+/Users/batuhanparlak/Desktop/trtek staj/DentalHealthTracker/DentalHealthTracker.Service/obj/Debug/net8.0/ref/DentalHealthTracker.Service.dll

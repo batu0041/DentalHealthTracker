@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "D2uKhQacTIjtIsN+sGxGd+EEdgM5PORSOgDOZm0adPw=",
+  "Source": "DentalHealthTracker.API",
+  "BasePath": "_content/DentalHealthTracker.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
